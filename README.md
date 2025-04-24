@@ -1,1 +1,3 @@
 # Compare-Sort-Algorithms
+
+The program includes selection sort, merge sort, quick sort, and heap sort which are different but effective algorithms for sorting. The program is designed to run all different sizes on its own. It iterates through a predefined list of array sizes {5,000, 10,000, 20,000} and generates a random array for each size. It then measures the execution time of multiple sorting algorithms (Selection Sort, Merge Sort, Quick Sort, and Heap Sort) in milliseconds for each array size. Each algorithm is implemented using generic methods with templates. The findings reveal that quick sort performed the best for all three run times, followed by heap sort, merge sort, and selection sort respectively. 
